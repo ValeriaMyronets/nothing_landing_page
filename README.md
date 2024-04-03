@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing is where users can find a wide selection of iPhones and accessories for them. With a bright and attractive design, my project is designed to attract visitors and provide them with a convenient interface to quickly find and purchase some products.
+Design - [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&mode=design)
+Demo - [DemoLink](https://valeriamyronets.github.io/layout_landing-page/)
